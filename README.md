@@ -1,4 +1,4 @@
 # SQL
 SQL, PLSQL
 
-- 1. SQL Window Function
+- (1). SQL Window Function
